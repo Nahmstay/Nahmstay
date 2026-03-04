@@ -18,8 +18,8 @@ As more companies move toward decentralized systems, I hope to help bridge the g
 
 ### A Few Extras
 
-- Coffee ☕️ ✅  
-- Big fan of the outdoors — motorcycles 🏍️, biking 🚴‍♂️, hiking 🥾, fishing 🎣  
+- Coffee & Tea ☕️ ✅  
+- Big fan of the outdoors — motorcycles 🏍️, biking 🚴‍♂️, hiking 🥾
 - Dogs 🐶 > Cats 🐱  
 - Enjoy gaming 🎮 and reading fantasy 📚  
 - Love watching TV shows with the wife ❤️📺
