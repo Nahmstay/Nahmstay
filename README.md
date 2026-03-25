@@ -1,5 +1,5 @@
 Hey!  
-I'm Dakota, an aspiring Web3 security researcher based in the United States.
+I'm Nahmstay, an aspiring Web3 security researcher based in the United States.
 
 Over the past 6 months, I’ve been learning smart contract development from the ground up — primarily using Solidity and Foundry.  
 I'm currently studying through Cyfrin Updraft's courses and pursuing a Master’s in Cybersecurity.
