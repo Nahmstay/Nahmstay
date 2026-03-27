@@ -1,28 +1,18 @@
-Hey!  
-I'm Nahmstay, an aspiring Web3 security researcher based in the United States.
+Hey 👋
 
-Over the past 6 months, I’ve been learning smart contract development from the ground up — primarily using Solidity and Foundry.  
-I'm currently studying through Cyfrin Updraft's courses and pursuing a Master’s in Cybersecurity.
+I'm Nahmstay. Web3 security researcher in progress.
+I spent years in IT fixing things before I realized breaking them was way more interesting. That pulled me toward security, and security led me somewhere I didn't expect. Six months into smart contract security, learning Solidity and Foundry, working through Cyfrin Updraft, and finishing a Master's in Cybersecurity. The goal is bug bounties, audits, and giving back to a community that openly shares what it knows.
+Web3 got me because it felt like a fair fight. Open source, open research, no gatekeeping. That matters.
+Still early. Okay with that.
+A few extras
 
-My long-term goal is to help make security a foundational part of how we build in Web3 — not an afterthought.  
-As more companies move toward decentralized systems, I hope to help bridge the gap between traditional security principles and the unique challenges of blockchain-based development.
+Ironman 70.3 training 🏊‍♂️🚴‍♂️🏃‍♂️
+Motorcycles 🏍️ and trails 🥾
+Mavs basketball 🏀
+The dog 🐶
+Always something warm in hand ☕️🍵
+TV shows with the wife ❤️📺
 
-
-### Interests
-
-- Smart contract security & auditing  
-- Ethereum, Solidity, Foundry  
-- Protocol design & on-chain risk analysis  
-- Exploring the overlap between Web2 and Web3 security models
-
-
-### A Few Extras
-
-- Coffee & Tea ☕️ ✅  
-- Big fan of the outdoors — motorcycles 🏍️, biking 🚴‍♂️, hiking 🥾
-- Dogs 🐶 > Cats 🐱  
-- Enjoy gaming 🎮 and reading fantasy 📚  
-- Love watching TV shows with the wife ❤️📺
-
-If you're working on something in the Web3 security space — or just want to connect — feel free to reach out. 
+Building in Web3 security or just want to connect? Find me on Medium or reach out.
+Nahmstay.
 
