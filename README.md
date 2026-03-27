@@ -13,6 +13,6 @@ The dog 🐶
 Always something warm in hand ☕️🍵
 TV shows with the wife ❤️📺
 
-Building in Web3 security or just want to connect? Find me on Medium or reach out.
+Building in Web3 security or just want to connect? Find me on Medium /@nahmstay or reach out.
 Nahmstay.
 
