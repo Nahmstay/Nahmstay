@@ -9,11 +9,11 @@ Web3 got me because it felt like a fair fight. Open source, open research, no ga
 Still early. Okay with that.
 
 **A few extras**
+- Motorcycles, bikes, and trails 🏍️🚴‍♂️🥾
 - Ironman 70.3 training 🏊‍♂️🚴‍♂️🏃‍♂️
-- Motorcycles 🏍️ and trails 🥾
 - Mavs basketball 🏀
-- The dog 🐶
-- Always something warm in hand ☕️🍵
+- Dog Dad 🐶
+- Coffee or tea? Yes! ☕️🍵
 - TV shows with the wife ❤️📺
 
 Building in Web3 security or just want to connect? Find me on Medium @nahmstay or reach out.
