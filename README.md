@@ -14,4 +14,4 @@ I spent years in IT fixing things before I realized breaking them was way more i
 
 Building in Web3 security or just want to connect? Find me on Medium @nahmstay or reach out.
 
-Nahmstay.
+-Nahmstay
